@@ -1,5 +1,5 @@
 # Salty-Army
-Content for the Salty Army
+Content for the Salty Army Content Repository
 
 ## Purpose:
 
